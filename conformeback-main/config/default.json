@@ -1,0 +1,4 @@
+{
+  "db":"mongodb+srv://mariem:mariem@cluster0.coprr.mongodb.net/?retryWrites=true&w=majority",
+  "secret": "cs2i"
+}
